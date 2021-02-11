@@ -1,1 +1,1 @@
-# HAM10000-Project
+# HAM10000-Research-Study
