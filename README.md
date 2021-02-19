@@ -5,4 +5,4 @@ students of the class had to make a mock research paper.
 
 Model Omega described in the paper is Model-002
 
-The research paper is included in this repository.
+The research paper is included in this repository alongside the logs during training. The model checkpoints weren't saved due to their massive size.
